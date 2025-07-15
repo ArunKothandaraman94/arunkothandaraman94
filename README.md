@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Arun Kothandaraman
-![Banner](https://github.com/ArunKothandaraman94/ArunKothandaraman94/blob/main/A_professional_GitHub_profile_banner_showcases_Aru.png?raw=true)
 
 🎓 **MS Business Analytics @ NAU**  
 📊 **Power BI & Data Viz Enthusiast**  
