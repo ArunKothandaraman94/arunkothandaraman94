@@ -3,7 +3,7 @@
 🎓 **MS Business Analytics @ NAU**  
 📊 **Power BI & Data Viz Enthusiast**  
 🔍 Turning data into insights | Actively building my analytics portfolio  
-🌐 [Portfolio Website](#) | 💼 [LinkedIn](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/arun-raman)
 
 ---
 
@@ -18,13 +18,9 @@
 ---
 
 ## 🧰 Skills & Tools
-`Power BI` | `DAX` | `Excel` | `SQL` | `Python` | `R` | `Tableau` | `MS Power Platform`
+
+`Power BI` | `DAX` | `SQL` | `Excel` | `Python` | `R` | `Tableau` | `Power Platform`
 
 ---
 
-## 📊 Recent Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunKothandaraman94&show_icons=true&theme=gruvbox)
-
----
-
-> 📫 *Let's connect and grow together!*
+## 📊 GitHub St
