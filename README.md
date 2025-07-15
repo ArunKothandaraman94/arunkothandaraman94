@@ -1,4 +1,6 @@
-![Banner](https://github.com/ArunKothandaraman94/arunkothandaraman94/blob/main/Background_image.png?raw=true)
+<p align="center">
+  <img src="https://github.com/ArunKothandaraman94/arunkothandaraman94/blob/main/Background_image.png?raw=true" width="100%" height="auto" />
+</p>
 
 
 # 👋 Hello, I'm Arun Kothandaraman
