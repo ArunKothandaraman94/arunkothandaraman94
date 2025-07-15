@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ArunKothandaraman94/ArunKothandaraman94/blob/main/slim_banner.png?raw=true" width="100%" height="auto" />
-</p>
-
 
 
 # 👋 Hello, I'm Arun Kothandaraman
