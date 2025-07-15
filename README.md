@@ -1,5 +1,5 @@
-<!-- Profile Banner -->
-![Banner](https://github.com/ArunKothandaraman94/ArunKothandaraman94/blob/main/A_professional_GitHub_profile_banner_showcases_Aru.png?raw=true)
+![Banner](https://github.com/ArunKothandaraman94/arunkothandaraman94/blob/main/Background_image.png?raw=true)
+
 
 # 👋 Hello, I'm Arun Kothandaraman
 
