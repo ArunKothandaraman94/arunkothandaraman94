@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Arun Kothandaraman
 
-<!--
-**ArunKothandaraman94/arunkothandaraman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MS Business Analytics @ NAU**  
+📊 **Power BI & Data Viz Enthusiast**  
+🔍 Turning data into insights | Actively building my analytics portfolio  
+🌐 [Portfolio Website](#) | 💼 [LinkedIn](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| 📁 Project | 💡 Description |
+|-----------|----------------|
+| [Pizza Sales Report](https://github.com/ArunKothandaraman94/Pizza-Sales-Analysis-Report) | Power BI dashboard analyzing pizza sales trends |
+| [Hotel Analysis Report](https://github.com/ArunKothandaraman94/Hotel-Analysis-Report) | Revenue analysis and booking trends using Power BI |
+| [HR Analysis Report](https://github.com/ArunKothandaraman94/HR-Analysis-Report) | Attrition and headcount insights with Power BI |
+
+---
+
+## 🧰 Skills & Tools
+`Power BI` | `DAX` | `Excel` | `SQL` | `Python` | `R` | `Tableau` | `MS Power Platform`
+
+---
+
+## 📊 Recent Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunKothandaraman94&show_icons=true&theme=gruvbox)
+
+---
+
+> 📫 *Let's connect and grow together!*
