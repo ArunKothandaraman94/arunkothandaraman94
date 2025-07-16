@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ArunKothandaraman94/arunkothandaraman94/blob/main/bg_image_new.png?raw=true" width="450" height="250" />
+</p>
 
 
 
