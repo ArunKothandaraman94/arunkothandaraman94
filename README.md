@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ArunKothandaraman94/ArunKothandaraman94/blob/main/A_2D_vector_illustration_infographic_on_data_analy.png?raw=true" width="400" height="250" />
+</p>
 
 
 # 👋 Hello, I'm Arun Kothandaraman
